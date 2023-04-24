@@ -97,8 +97,8 @@ Normalize our dataset.
 
 ## **Program**
 ```
-Developed by: Virgil Jovita.A
-Reg. No: 212221240062
+Developed by: SARVESHKARAN V K 
+Reg. No: 212221230089
 ```
 ### Importing Libraries
 ```py
